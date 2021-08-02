@@ -1,0 +1,4 @@
+
+อย่าลืมลง   python เวอร์ชั่นล่าสุดด้วยนะครับ
+
+py -m pip install pysocks bs4
